@@ -6,7 +6,7 @@
 In this project, I analyzed **114,000 Spotify Tracks** to figure out exactly what makes a song go viral. I used Python and SQL to clean the data and Tableau to visualize the results. The goal was to tell a record label exactly how to produce a hit in 2025.
 
 ## 📊 The Dashboard
-### [👉 Click Here to View the Interactive Dashboard]([https://public.tableau.com/views/SpotifyDataAnalysisTheViralHitPredictor/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
+### [👉 Click Here to View the Interactive Dashboard](https://public.tableau.com/views/SpotifyDataAnalysisTheViralHitPredictor/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🎧 The 2025 Hit Formula (Key Findings)
 * **Keep It Short:** Attention spans are short. The data shows the sweet spot is strictly **2.5 to 3.5 minutes**. If the song drags on past 4 minutes, listeners drop off.
